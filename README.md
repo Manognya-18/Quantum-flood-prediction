@@ -90,7 +90,7 @@ Update this structure to match the files actually present in your repository.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/quantum-flood-prediction.git
+git clone https://github.com/Manognya-18/Quantum-flood-prediction
 cd quantum-flood-prediction
 ```
 
