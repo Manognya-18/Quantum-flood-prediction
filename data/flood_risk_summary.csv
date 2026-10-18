@@ -1,0 +1,13 @@
+Metric,Value
+Total Records,9125
+Normal Records,7931
+Watch Records,165
+Warning Records,123
+Critical Records,906
+Normal Percentage,86.92
+Watch Percentage,1.81
+Warning Percentage,1.35
+Critical Percentage,9.93
+Maximum Discharge,70266.29
+Maximum Discharge Date,2019-09-08
+Maximum Discharge Risk Level,CRITICAL

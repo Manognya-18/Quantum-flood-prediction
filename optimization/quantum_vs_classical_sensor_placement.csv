@@ -1,0 +1,3 @@
+Method,Selected_Stations,Number_of_Sensors,Total_Importance_Score
+QAOA Quantum,"KR-01, KR-05, KR-06",3,1.88009
+Classical Exhaustive,"KR-01, KR-05, KR-06",3,1.88009

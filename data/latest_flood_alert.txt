@@ -1,0 +1,23 @@
+
+==================================================
+       KRISHNA BASIN FLOOD EARLY WARNING
+==================================================
+
+Latest Data Date : 2025-12-31
+
+Maximum Discharge: 92.580
+
+Risk Ratio       : 0.126
+
+Alert Level      : NORMAL
+
+Recommended Action:
+Continue routine monitoring. No immediate flood-response action is indicated by this threshold-based alert.
+
+==================================================
+Note:
+This is a project-level analytical alert generated
+from the available discharge dataset and the
+project-defined threshold of 736.23.
+It is not an official government flood warning.
+==================================================
